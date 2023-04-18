@@ -1,4 +1,4 @@
-#!/Users/musthaqshaik/Devopsec_greatkart/env/bin/python3.11
+#!/home/ec2-user/environment/DevopSec_greatkart_Ecom/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
