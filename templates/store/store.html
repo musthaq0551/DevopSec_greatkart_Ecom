@@ -141,8 +141,8 @@
                             <span class="price">€ {{ product.price }}</span>
                         </div> <!-- price-wrap.// -->
                     </div>
-                    <a href="#" class="btn btn-block btn-primary">Add to cart </a>
-                </figcaption>
+                    <a href="{{ product.get_url }}" class="btn btn-block btn-primary">View details</a>
+                </figcaption> 
             </figure>
         </div> <!-- col.// -->
         {% endfor %}
