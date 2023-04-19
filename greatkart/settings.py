@@ -26,7 +26,7 @@ SECRET_KEY = 'd&5&_=_q4d945)!ar183_tn@(f+kjqhkr12f=z*z!i-)+%!x_h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://x22137335greatcart-env.eba-mc7u25mz.us-east-2.elasticbeanstalk.com/']
+ALLOWED_HOSTS = ['x22137335greatcart-env.eba-mc7u25mz.us-east-2.elasticbeanstalk.com']
 
 
 # Application definition
