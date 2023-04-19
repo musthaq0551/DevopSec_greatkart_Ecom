@@ -1,4 +1,4 @@
-#!/home/ec2-user/environment/DevopSec_greatkart_Ecom/env/bin/python3
+#!/home/ec2-user/environment/DevopSec_greatkart_Ecom/env/bin/python3.7
 from django.core import management
 
 if __name__ == "__main__":
