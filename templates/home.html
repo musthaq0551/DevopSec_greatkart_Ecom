@@ -12,7 +12,6 @@
 <div class="intro-banner-wrap">
 	<img src="{%static 'images/banners/banner8.jpeg'%}" class="img-fluid rounded">
 </div>
-<div>.</div>
 </div> <!-- container //  -->
 </section>
 <!-- ========================= SECTION MAIN END// ========================= -->
@@ -29,7 +28,6 @@
 	
 <div class="row">
 	{% for product in products %}
-	<div>List of Products</div>
 	<div class="col-md-3">
 		<div class="card card-product-grid">
 			<a href="{{ product.get_url }}" class="img-wrap"> <img src="{{ product.images.url}}"> </a>
